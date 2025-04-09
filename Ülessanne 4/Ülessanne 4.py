@@ -1,5 +1,5 @@
 import pygame # Impordime pygame raamatukogu
-import random
+import random # Impordime random raamatukogu
 pygame.init() # Alustame pygame funktsioonid.
 
 screen = pygame.display.set_mode([640,480]) # Määrame pygame akna mõõtmed.
